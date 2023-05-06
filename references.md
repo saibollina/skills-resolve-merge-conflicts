@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+Changes from newly created references.md 
